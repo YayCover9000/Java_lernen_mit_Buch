@@ -1,5 +1,5 @@
 public class WhileTest {
-    public static void main(String[] args) {
+    public static void whileTest() {
         int n = 100, summe = 0, i = 1;
         while (i <= n) {
             summe = summe + i; // oder summe += i;
