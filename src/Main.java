@@ -20,9 +20,10 @@ public class Main {
         //Aufgaben_Kapitel_2.Aufgabe_2_1();
         //Mehrfachauswahl.mehrfachauswahl();
         //WhileTest.whileTest();
-        //JFrameGUI.JFrameGUIoffnen();
-        //VaralsNeutraleVar.Var();
-        Aufgaben_Kapitel_3.InKlassenAufruf();
+        //JFrameGUI.JFrameGUIOeffnen();
+        //Aufgaben_Kapitel_3.InKlassenAufruf();
+        Aufgaben_Kapitel_4.InKlassenAufruf();
+        //Aufgaben_Kapitel_5.InKlassenAufruf();
 
     }
 }
