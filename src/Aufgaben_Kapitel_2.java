@@ -10,5 +10,16 @@ public class Aufgaben_Kapitel_2 {
         /*Schreiben Sie ein Programm, das mit einem einzigen Aufruf der Java-Anweisung System.out.print eine Zeichenkette in mehreren Zeilen auf dem
         Bildschirm ausgibt.*/
         System.out.print("Hallo\tWelt\t!\n");
+
+        int g = 0xAA00;
+        int k = 0b10101010;
+        var h = 0xAA00;
+        var t = 0b10101010;
+
+        System.out.println(g);
+        System.out.println(k);
+        System.out.println(h);
+        System.out.println(t);
+
     }
 }

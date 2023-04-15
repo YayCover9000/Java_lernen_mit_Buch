@@ -22,6 +22,7 @@ public class Main {
         //WhileTest.whileTest();
         //JFrameGUI.JFrameGUIoffnen();
         //VaralsNeutraleVar.Var();
+        Aufgaben_Kapitel_3.InKlassenAufruf();
 
     }
 }
