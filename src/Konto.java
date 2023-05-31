@@ -22,16 +22,18 @@ public class Konto {
         saldo = saldo - betrag;
     }
     public void info() {
-        System.out.println("Kontonummer: " + kontonummer + "Saldo: " + saldo);
+        System.out.println("Kontonummer: " + kontonummer + "\tSaldo: " + saldo);
 
     }
-    public Konto () {}
+
+
+    public Konto () { }
 
     Konto(int kontonummer) {
         this.kontonummer = kontonummer;
     }
     public Konto (int kontonummer, double saldo) {
-        this.kontonummer = kontonummer;
+        setKontonummer(kontonummer);
         this.saldo = saldo;
     }
     public Konto(Konto k) {
