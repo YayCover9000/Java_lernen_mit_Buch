@@ -45,7 +45,7 @@ public class Sparbuch {
     }
     Sparbuch() {
         kontonummer = 0;
-        zinssatz = 0;
+        zinssatz = 0.0f;
         kapital = 0;
     }
     Sparbuch(int kontonummer, float zinssatz, float kapital) {
